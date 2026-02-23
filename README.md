@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Sandro Ribeiro da Luz
 
 ## 🔧 Sobre mim
-- Superior em Tecnologia Mecânica (UTFPR); e Matemãtica
+- Superior em Mecânica (UTFPR); e Matemática
 - Engenharia de Software; e Computação (UTFPR) - Concluindo 
 - Repositório de laboratórios práticos e estudos de **Linux** e **Segurança da Informação**  
 - Atualmente estudando para a certificação **CompTIA Security+**  
