@@ -7,13 +7,13 @@
 
 ## 🎓 Certificações
 
-[![Google Cybersecurity Professional Certificate](https://www.credly.com/badges/c06f3e93-9cf2-4e0b-80e1-1c3d3b129dc9)  
+[![Google Cybersecurity Professional Certificate](https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)  
 **Google Cybersecurity Professional Certificate V2** – Coursera  
 
-[![Cybersecurity Fundamentals](https://www.credly.com/badges/e6ec7ec5-7fae-4786-941e-c3f24c30de54)  
+[![Cybersecurity Fundamentals](https://images.credly.com/size/680x680/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)  
 **Cybersecurity Fundamentals** – IBM SkillsBuild  
 
-[![ISC2 Candidate](https://www.credly.com/badges/89574b87-23c2-4727-8c98-d9286e14f1f6)  
+[![ISC2 Candidate](https://images.credly.com/size/680x680/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)  
 **ISC2 Candidate** – ISC2 (válido até fev/2027)
 
 ## 📚 Em andamento
