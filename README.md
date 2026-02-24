@@ -20,7 +20,7 @@
 **ISC2 Candidate** – ISC2 (válido até fev/2027)
 
 [![DIO Cibersegurança](https://assets.dio.me/WzVCmviZvw1ZfQ6bepXVwHYIv9GP2s_dtStKj7NHYQY/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9GMEdYNE5PSy5qcGc)
-**Riachuelo / DIO - Cybersecurity Fundamentals**
+**Riachuelo / DIO - Cybersecurity**
 
 ## 📚 Em andamento
 - Preparação para **CompTIA Security+**  
