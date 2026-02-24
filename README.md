@@ -10,8 +10,7 @@
 
 ## 🎓 Certificações
 
-[![Google Cybersecurity Professional Certificate](https://images.credly.com/size/300x300/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)  
-**Google Cybersecurity Professional Certificate V2** – Coursera  
+[![Google Cybersecurity Professional Certificate](https://images.credly.com/size/300x300/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)  **Google Cybersecurity Professional Certificate V2** – Coursera  
 
 [![Cybersecurity Fundamentals](https://images.credly.com/size/120x120/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)  
 **Cybersecurity Fundamentals** – IBM SkillsBuild  
