@@ -19,7 +19,7 @@
 [![ISC2 Candidate](https://images.credly.com/size/120x120/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)  
 **ISC2 Candidate** – ISC2 (válido até fev/2027)
 
-[![DIO Cibersegurança](https://assets.dio.me/WzVCmviZvw1ZfQ6bepXVwHYIv9GP2s_dtStKj7NHYQY/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9GMEdYNE5PSy5qcGc)
+[![DIO Cibersegurança](https://assets.dio.me/WzVCmviZvw1ZfQ6bepXVwHYIv9GP2s_dtStKj7NHYQY/f:webp/h:160/q:70/w:225/L2NlcnRpZmljYXRlcy9jb3Zlci9GMEdYNE5PSy5qcGc)
 **Riachuelo / DIO - Cybersecurity Fundamentals**
 
 ## 📚 Em andamento
