@@ -12,11 +12,9 @@
 
 [![Google Cybersecurity Professional Certificate](https://images.credly.com/size/300x300/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)  **Google Cybersecurity Professional Certificate V2** – Coursera  
 
-[![Cybersecurity Fundamentals](https://images.credly.com/size/120x120/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)  
-**Cybersecurity Fundamentals** – IBM SkillsBuild  
+[![Cybersecurity Fundamentals](https://images.credly.com/size/240x240/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)  **Cybersecurity Fundamentals** – IBM SkillsBuild  
 
-[![ISC2 Candidate](https://images.credly.com/size/120x120/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)  
-**ISC2 Candidate** – ISC2 (válido até fev/2027)
+[![ISC2 Candidate](https://images.credly.com/size/240x240/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)  **ISC2 Candidate** – ISC2 (válido até fev/2027)
 
 [![DIO Cibersegurança](https://assets.dio.me/WzVCmviZvw1ZfQ6bepXVwHYIv9GP2s_dtStKj7NHYQY/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9GMEdYNE5PSy5qcGc)
 **Riachuelo / DIO - Cybersecurity**
